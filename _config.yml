@@ -1,0 +1,28 @@
+name: OUR DAILY BRUT
+favicon: null
+layout_spectrum: 0.2651309485081583
+typography_spectrum: 0.8343503079377115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8833589595742524
+  lightness: 0.6242678856942803
+  saturation: 0.4877569193486124
+  rhythmicContrast: 0.7785111670382321
+purpose: []
