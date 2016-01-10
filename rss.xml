@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OUR DAILY BRUT]]></title>
+        <description><![CDATA[OUR DAILY BRUT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 14:34:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The battle of the champagne widows.]]></title>
+            <description><![CDATA[<article><h1>The battle of the champagne widows.</h1><p>Champagne is a unique wine. It comes from a region with a challenging climate, most often unsuitable for quality still wine, but through the development of the technique of sparkling winemaking, it has managed to become a benchmark for its kind, an expensive item of luxury and an indication of style. This is impressive enough but there is something less known and obvious about champagne that fascinates me more. Ever since I started to dig deeper into the world and history of the bubbly drink my attention has been drawn to the extent of involvement of women in the running of the champagne business and the key role they have played in the success of the industry and the companies they were in charge of. During my visits to the region of Champagne I learned that some of the most successful houses were at a certain period in their history run by a widow who has inherited the business from her husband. By the way, being a widow was the only way for a woman to be independent and have her own business in France in the 19th century since the unmarried women were financially dependent on their fathers and the married ones depended on their husbands. So, these “grand dames”, as they are often called, used creativity, entrepreneurship, intuition and sheer ambition to turn around the business, making it profitable in hard times, expanding the operations and, in some cases, making innovations that nowadays contribute to the image of champagne as an unmistakable symbol of celebration and "joie de vivre". Actually, I cannot think of any other area of winemaking or even a business in general whose history has been influenced to such an extent by women. </p></article>]]></description>
+            <link>undefinedthe-battle-of-the-champagne-widows/index.html</link>
+            <guid isPermaLink="false">578ca873-ac50-4f7d-97df-2d6caaf5e8bd</guid>
+            <pubDate>Sun, 10 Jan 2016 14:34:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
