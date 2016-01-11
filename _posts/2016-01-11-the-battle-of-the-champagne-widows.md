@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T20:46:30.288Z'
-dateModified: '2016-01-11T20:39:52.222Z'
+datePublished: '2016-01-11T20:49:48.422Z'
+dateModified: '2016-01-11T20:47:44.662Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
