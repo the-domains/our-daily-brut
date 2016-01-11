@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T19:47:59.247Z'
-dateModified: '2016-01-11T19:47:47.607Z'
+datePublished: '2016-01-11T19:52:21.624Z'
+dateModified: '2016-01-11T19:52:15.850Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-battle-of-the-champagne-widows/index.html
-_type: Article
+_type: WebPage
 
 ---
 # The battle of the champagne widows
