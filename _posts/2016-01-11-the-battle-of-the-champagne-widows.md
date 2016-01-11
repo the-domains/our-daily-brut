@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T19:40:31.128Z'
-dateModified: '2016-01-11T19:40:13.140Z'
+datePublished: '2016-01-11T19:47:59.247Z'
+dateModified: '2016-01-11T19:47:47.607Z'
 title: The battle of the champagne widows
 author: []
+sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
-published: true
 url: the-battle-of-the-champagne-widows/index.html
 _type: Article
 
