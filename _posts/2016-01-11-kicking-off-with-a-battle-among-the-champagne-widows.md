@@ -1,14 +1,9 @@
 ---
-author:
-  - name: the epicurealist
-    url: 'https://epicurealist.wordpress.com/author/epicurealist/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://epicurealist.wordpress.com'
-  name: the epicurealist
-  favicon: 'https://s2.wp.com/i/favicon.ico'
-  domain: epicurealist.wordpress.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - champagne
   - veuve
@@ -21,17 +16,24 @@ keywords:
   - wine
   - business
 description: 'Well, since this is my first post in my first ever personal blog, it kind of came naturally to start with writing about champagne and even drinking some along the way. So, here is the story with which this blog kicks off: Champagne is a unique wine.'
-inLanguage: en
+datePublished: '2016-01-11T16:16:23.989Z'
+dateModified: '2016-01-11T16:16:18.011Z'
+author:
+  - name: the epicurealist
+    url: 'https://epicurealist.wordpress.com/author/epicurealist/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://epicurealist.wordpress.com/2014/10/14/champagne-widows/'
 title: Kicking off with... a battle among the Champagne widows
-datePublished: '2016-01-11T16:14:22.147Z'
-dateModified: '2016-01-11T16:13:43.401Z'
 sourcePath: _posts/2016-01-11-kicking-off-with-a-battle-among-the-champagne-widows.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: the epicurealist
+  domain: epicurealist.wordpress.com
+  url: 'http://epicurealist.wordpress.com'
+  favicon: 'https://s2.wp.com/i/favicon.ico'
+url: kicking-off-with-a-battle-among-the-champagne-widows/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
