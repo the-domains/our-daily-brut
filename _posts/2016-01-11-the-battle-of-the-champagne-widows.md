@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T19:52:21.624Z'
-dateModified: '2016-01-11T19:52:15.850Z'
+datePublished: '2016-01-11T20:46:30.288Z'
+dateModified: '2016-01-11T20:39:52.222Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-battle-of-the-champagne-widows/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The battle of the champagne widows
@@ -28,7 +28,7 @@ _by [Epicurealist][0]_
 
 **Champagne** is a unique wine. It comes from a region with a challenging climate, most often unsuitable for quality still wine, but through the development of the technique of sparkling winemaking it has managed to become a benchmark for its kind, an expensive item of luxury and an indication of style. This is impressive enough but there is something less known and obvious about champagne that fascinates me more. Ever since I started to dig deeper into the world and history of the bubbly drink my attention has been drawn to the extent of involvement of women in the running of the champagne business and the key role they have played in the success of the industry and the companies they were in charge of. 
 
-During my visits to the region of Champagne I learned that some of the most successful houses have at a certain period in their history been run by a widow who has inherited the business from her husband. By the way, being a widow was the only way for a woman to be independent and have her own business in France in the 19th century since the unmarried women were financially dependent on their fathers and the married ones depended on their husbands. So, these "grand dames", as they are often called, used creativity, entrepreneurship, intuition and sheer ambition to turn around the business, making it profitable in hard times, expanding the operations and, in some cases, making innovations that nowadays contribute to the image of champagne as an unmistakable symbol of celebration and joie de vivre. Actually, I cannot think of any other area of winemaking or even a business in general whose history has been influenced to such an extent by women. 
+During my visits to the region of Champagne I learned that some of the most successful houses have at a certain period in their history been run by a widow who has inherited the business from her husband. By the way, being a widow was the only way for a woman to be independent and have her own business in France in the 19th century since the unmarried women were financially dependent on their fathers and the married ones depended on their husbands. So, these "grand dames", as they are often called, used creativity, entrepreneurship, intuition and sheer ambition to turn around the business, making it profitable in hard times, expanding the operations and, in some cases, making innovations that nowadays contribute to the image of champagne as an unmistakable symbol of celebration and joie de vivre. Actually, I cannot think of any other area of winemaking or even a business in general whose history has been influenced to such an extent by women.
 
 So, one day, in a blissful moment of champagne induced inspiration, I started thinking of a way to pay respect to the entrepreneurial and competitive spirit of the women of the champagne trade. It didn't take too many glasses of sparkling wine before I came up with the idea to host a blind tasting of the champagnes produced by the most notable houses whose history and success have been shaped by one of those "grand dames". Some sort of a battle among the widows to determine whose descendants produce the best champagne or, at least, the one that would be most appreciated by me and my friends.
 No sooner said than done! I negotiated a date with my wife who, apart from being my most faithful wine tasting companion, is an excellent cook. But we needed a bigger tasting panel, so she sent invitations to some friends who we thought might be interested. Since only 3 of them responded positively to the proposed date, we decided to go for half-bottles rather than postponing the event to accommodate the schedules of more people. Finally, I sourced from a couple of local stores the non-vintage brut champagnes of the 4 most famous brands associated with widows and threw in an "outsider" to make for a more diversified bunch. 
