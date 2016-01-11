@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T19:21:54.131Z'
-dateModified: '2016-01-11T19:21:45.425Z'
+datePublished: '2016-01-11T20:57:50.588Z'
+dateModified: '2016-01-11T20:57:44.801Z'
 title: 'A fly in my champagne!'
 author: []
 sourcePath: _posts/2016-01-11-a-fly-in-my-champagne.md
@@ -34,7 +34,8 @@ A multi-national company held a reception to celebrate Christmas. The waiter gav
 
 • The Finn picked out the fly out and drank the champagne. 
 
-• The Russian drank the champagne, fly and all.
+• The Russian drank the champagne, fly and all. 
+
 • The Chinese ate the fly but left the champagne. 
 
 • The Israeli caught the fly and sold it to the Chinese. 
