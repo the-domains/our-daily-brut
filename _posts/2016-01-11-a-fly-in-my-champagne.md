@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T18:59:47.751Z'
-dateModified: '2016-01-11T18:59:42.346Z'
+datePublished: '2016-01-11T19:21:54.131Z'
+dateModified: '2016-01-11T19:21:45.425Z'
 title: 'A fly in my champagne!'
 author: []
 sourcePath: _posts/2016-01-11-a-fly-in-my-champagne.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # A fly in my champagne!
 
-Champagne is all about having a good time and you can't have a good time without (at least) a little bit of humour. So here's our first dose of champagne humour - a joke that has been around for some time, but we like it a lot, not least because of its international flavour. 
+_Champagne is all about having a good time and you can't have a good time without (at least) a little bit of humour. So here's our first dose of champagne humour - a joke that has been around for some time, but we like it a lot, not least because of its international flavour. _
 
 A multi-national company held a reception to celebrate Christmas. The waiter gave each guest a glass of champagne, but on inspection, each guest noticed that their glass contained a fly. 
 
