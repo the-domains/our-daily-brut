@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[OUR DAILY BRUT]]></title>
         <description><![CDATA[OUR DAILY BRUT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/our-daily-brut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 13:52:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 13:55:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/our-daily-brut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OUR DAILY BRUT]]></title>
-            <description><![CDATA[<article><h1>OUR DAILY BRUT</h1><p>Welcome to "Our Daily Brut". This is a website dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a couple of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things we come across with respect to this awesome drink.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11ec485e3fbac2853f7cbff420d89c555162fe45.jpg"></article>]]></description>
-            <link>undefinedour-daily-brut/index.html</link>
+            <description><![CDATA[<article><h1>OUR DAILY BRUT</h1><p>Welcome to Our Daily Brut. This is a website dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a couple of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things we come across with respect to this awesome drink.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11ec485e3fbac2853f7cbff420d89c555162fe45.jpg"></article>]]></description>
+            <link>https://thegrid.ai/our-daily-brut/our-daily-brut/index.html</link>
             <guid isPermaLink="false">4619f185-d972-4f6f-9d44-89887ee17809</guid>
-            <pubDate>Mon, 11 Jan 2016 13:52:24 GMT</pubDate>
+            <pubDate>Mon, 11 Jan 2016 13:55:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
