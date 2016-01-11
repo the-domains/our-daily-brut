@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home page
-datePublished: '2016-01-11T16:17:54.202Z'
-dateModified: '2016-01-11T16:17:47.828Z'
+datePublished: '2016-01-11T17:44:19.436Z'
+dateModified: '2016-01-11T17:44:14.019Z'
 title: OUR DAILY BRUT
 author: []
 sourcePath: _posts/2016-01-11-our-daily-brut.md
