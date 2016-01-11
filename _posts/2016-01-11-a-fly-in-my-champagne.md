@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T18:58:42.763Z'
-dateModified: '2016-01-11T18:58:16.631Z'
+datePublished: '2016-01-11T18:59:47.751Z'
+dateModified: '2016-01-11T18:59:42.346Z'
 title: 'A fly in my champagne!'
 author: []
 sourcePath: _posts/2016-01-11-a-fly-in-my-champagne.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: a-fly-in-my-champagne/index.html
-_type: WebPage
+_type: Article
 
 ---
 # A fly in my champagne!
