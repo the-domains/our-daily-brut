@@ -16,15 +16,15 @@ keywords:
   - wine
   - business
 description: 'Well, since this is my first post in my first ever personal blog, it kind of came naturally to start with writing about champagne and even drinking some along the way. So, here is the story with which this blog kicks off: Champagne is a unique wine.'
-datePublished: '2016-01-11T16:16:23.989Z'
-dateModified: '2016-01-11T16:16:18.011Z'
+datePublished: '2016-01-11T17:40:05.841Z'
+dateModified: '2016-01-11T16:21:00.713Z'
 author:
   - name: the epicurealist
     url: 'https://epicurealist.wordpress.com/author/epicurealist/'
     avatar: {}
 related: []
 app_links: []
-title: Kicking off with... a battle among the Champagne widows
+title: Champagne widows
 sourcePath: _posts/2016-01-11-kicking-off-with-a-battle-among-the-champagne-widows.md
 published: true
 authors: []
