@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Champagne is all about having a good time and you can't have a good time without (at least) a little bit of humour. So here's our first dose of champagne humour - a joke that has been around for some time, but we like it a lot, not least because of its international flavour. "
-datePublished: '2016-05-10T21:37:58.712Z'
-dateModified: '2016-05-10T21:37:32.407Z'
+datePublished: '2016-05-10T21:51:57.666Z'
+dateModified: '2016-05-10T21:51:35.968Z'
 title: 'A fly in my champagne!'
 author: []
 sourcePath: _posts/2016-01-11-a-fly-in-my-champagne.md
