@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-11T20:57:50.588Z'
-dateModified: '2016-01-11T20:57:44.801Z'
+description: "Champagne is all about having a good time and you can't have a good time without (at least) a little bit of humour. So here's our first dose of champagne humour - a joke that has been around for some time, but we like it a lot, not least because of its international flavour. "
+datePublished: '2016-05-10T21:37:58.712Z'
+dateModified: '2016-05-10T21:37:32.407Z'
 title: 'A fly in my champagne!'
 author: []
 sourcePath: _posts/2016-01-11-a-fly-in-my-champagne.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: a-fly-in-my-champagne/index.html
 _type: Article
 
@@ -49,4 +48,4 @@ A multi-national company held a reception to celebrate Christmas. The waiter gav
 • The American sued the restaurant and claimed $50 million in compensation. 
 
 • The Scotsman grabbed the fly by the throat and shouted, 'Now spit out all that you swallowed.'
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3c60ef-bcbd-4a07-91f6-fe9fabf6a307.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afb69b68367ca08e0f9a7f8418400dbb16b830ac.jpg)
