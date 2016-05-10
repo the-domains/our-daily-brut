@@ -5,10 +5,10 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: 'Welcome to Our Daily Brut. This is a website dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a couple of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things we come across with respect to this awesome drink.'
-datePublished: '2016-05-10T20:01:55.431Z'
-dateModified: '2016-05-10T20:01:42.631Z'
-title: Champagne Ruinart Cellars
+description: 'Welcome to our blog dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a group of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things on this awesome drink that we come across.'
+datePublished: '2016-05-10T20:08:37.615Z'
+dateModified: '2016-05-10T20:07:57.874Z'
+title: OUR DAILY BRUT
 author:
   - name: ''
     url: ''
@@ -23,5 +23,7 @@ starred: true
 _type: Blurb
 
 ---
-Welcome to **Our Daily Brut**. This is a website dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a couple of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things we come across with respect to this awesome drink.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52e9b313-c194-487b-a8d8-0500caaa65da.jpg)
+## OUR DAILY BRUT
+
+Welcome to our blog dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a group of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things on this awesome drink that we come across.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad167413a40973841f6ffcd4152700acac25dd9b.jpg)
