@@ -4,21 +4,22 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
 keywords: []
-description: Home page
-datePublished: '2016-01-11T17:44:19.436Z'
-dateModified: '2016-01-11T17:44:14.019Z'
-title: OUR DAILY BRUT
-author: []
+description: 'Welcome to Our Daily Brut. This is a website dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a couple of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things we come across with respect to this awesome drink.'
+datePublished: '2016-05-10T19:54:49.271Z'
+dateModified: '2016-05-10T18:48:01.797Z'
+title: Champagne Ruinart Cellars
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-11-our-daily-brut.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 _type: Blurb
 
 ---
