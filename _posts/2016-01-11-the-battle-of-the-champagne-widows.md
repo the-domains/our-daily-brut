@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Widows have a special place in the history of Champagne turning around some of the biggest houses, implementing breakthrough changes in the winemaking process and promoting champagne around the world. Here is an article about the most famous champagne widows and a blind tasting of their non-vintage brut champagnes re-posted from the Epicurealist.'
-datePublished: '2016-05-10T20:51:00.338Z'
-dateModified: '2016-05-10T20:50:14.881Z'
+datePublished: '2016-05-10T20:57:37.401Z'
+dateModified: '2016-05-10T20:57:36.720Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
@@ -24,6 +24,8 @@ _type: Article
 # The battle of the champagne widows
 
 _Widows have a special place in the history of Champagne turning around some of the biggest houses, implementing breakthrough changes in the winemaking process and promoting champagne around the world. Here is an article about the most famous champagne widows and a blind tasting of their non-vintage brut champagnes re-posted from the [Epicurealist][0]._
+
+__
 
 **Champagne** is a unique wine. It comes from a region with a challenging climate, most often unsuitable for quality still wine, but through the development of the technique of sparkling winemaking it has managed to become a benchmark for its kind, an expensive item of luxury and an indication of style. This is impressive enough but there is something less known and obvious about champagne that fascinates me more. Ever since I started to dig deeper into the world and history of the bubbly drink my attention has been drawn to the extent of involvement of women in the running of the champagne business and the key role they have played in the success of the industry and the companies they were in charge of. 
 
@@ -44,7 +46,9 @@ Now is the time to make a brief interlude and introduce the 5 champagne houses t
 
 -- **Veuve Fourny & Fils**. This was the "outsider" which I accidentally came across in Zurich's Markthalle Im Viadukt. The role of the widow in the history of this champagne turned out to be more obscure than in the four big houses already selected for the tasting -- the business is currently run by two brothers who claim that they have learned it all from their mother Madame Veuve Fourny, the widow in question, but they mention also their grand father and "his son" as having influenced them. Nevertheless, we decided to include this champagne in the tasting as it was of very good quality and having more champagnes is always better than having less. It is also interesting to note that this is the only champagne in our selection graded as a "premier cru". However, this is not necessarily an indication of superior quality per se because in Champagne, unlike in other French regions, cru grading is given to whole villages rather than specific vineyards and does not impose strict limitations in terms of yields which reduces its reliability. 
 
-So, these were our contestants, the respectable "dames". With all the 5 beauties in stock the only thing left to take care of was some nice food to pair with the champagne that would also help us clean our palates between the tastings. My wife stepped in devising and cooking an excellent menu for the occasion that included among other things: -- Jamon serrano with figs 
+So, these were our contestants, the respectable "dames". With all the 5 beauties in stock the only thing left to take care of was some nice food to pair with the champagne that would also help us clean our palates between the tastings. My wife stepped in devising and cooking an excellent menu for the occasion that included among other things: 
+
+-- Jamon serrano with figs 
 
 -- Blinis with sour cream and wild salmon roe (red caviar) 
 
