@@ -3,35 +3,33 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-11T20:49:48.422Z'
-dateModified: '2016-01-11T20:47:44.662Z'
+description: 'Widows have a special place in the history of Champagne turning around some of the biggest houses, implementing breakthrough changes in the winemaking process and promoting champagne around the world. Here is an article about the most famous champagne widows and a blind tasting of their non-vintage brut champagnes re-posted from the Epicurealist.'
+datePublished: '2016-05-10T20:51:00.338Z'
+dateModified: '2016-05-10T20:50:14.881Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: the-battle-of-the-champagne-widows/index.html
 _type: Article
 
 ---
 # The battle of the champagne widows
 
-_by [Epicurealist][0]_
+_Widows have a special place in the history of Champagne turning around some of the biggest houses, implementing breakthrough changes in the winemaking process and promoting champagne around the world. Here is an article about the most famous champagne widows and a blind tasting of their non-vintage brut champagnes re-posted from the [Epicurealist][0]._
 
 **Champagne** is a unique wine. It comes from a region with a challenging climate, most often unsuitable for quality still wine, but through the development of the technique of sparkling winemaking it has managed to become a benchmark for its kind, an expensive item of luxury and an indication of style. This is impressive enough but there is something less known and obvious about champagne that fascinates me more. Ever since I started to dig deeper into the world and history of the bubbly drink my attention has been drawn to the extent of involvement of women in the running of the champagne business and the key role they have played in the success of the industry and the companies they were in charge of. 
 
 During my visits to the region of Champagne I learned that some of the most successful houses have at a certain period in their history been run by a widow who has inherited the business from her husband. By the way, being a widow was the only way for a woman to be independent and have her own business in France in the 19th century since the unmarried women were financially dependent on their fathers and the married ones depended on their husbands. So, these "grand dames", as they are often called, used creativity, entrepreneurship, intuition and sheer ambition to turn around the business, making it profitable in hard times, expanding the operations and, in some cases, making innovations that nowadays contribute to the image of champagne as an unmistakable symbol of celebration and joie de vivre. Actually, I cannot think of any other area of winemaking or even a business in general whose history has been influenced to such an extent by women.
 
-So, one day, in a blissful moment of champagne induced inspiration, I started thinking of a way to pay respect to the entrepreneurial and competitive spirit of the women of the champagne trade. It didn't take too many glasses of sparkling wine before I came up with the idea to host a blind tasting of the champagnes produced by the most notable houses whose history and success have been shaped by one of those "grand dames". Some sort of a battle among the widows to determine whose descendants produce the best champagne or, at least, the one that would be most appreciated by me and my friends.
-No sooner said than done! I negotiated a date with my wife who, apart from being my most faithful wine tasting companion, is an excellent cook. But we needed a bigger tasting panel, so she sent invitations to some friends who we thought might be interested. Since only 3 of them responded positively to the proposed date, we decided to go for half-bottles rather than postponing the event to accommodate the schedules of more people. Finally, I sourced from a couple of local stores the non-vintage brut champagnes of the 4 most famous brands associated with widows and threw in an "outsider" to make for a more diversified bunch. 
+So, one day, in a blissful moment of champagne induced inspiration, I started thinking of a way to pay respect to the entrepreneurial and competitive spirit of the women of the champagne trade. It didn't take too many glasses of sparkling wine before I came up with the idea to host a blind tasting of the champagnes produced by the most notable houses whose history and success have been shaped by one of those "grand dames". Some sort of a battle among the widows to determine whose descendants produce the best champagne or, at least, the one that would be most appreciated by me and my friends. No sooner said than done! I negotiated a date with my wife who, apart from being my most faithful wine tasting companion, is an excellent cook. But we needed a bigger tasting panel, so she sent invitations to some friends who we thought might be interested. Since only 3 of them responded positively to the proposed date, we decided to go for half-bottles rather than postponing the event to accommodate the schedules of more people. Finally, I sourced from a couple of local stores the non-vintage brut champagnes of the 4 most famous brands associated with widows and threw in an "outsider" to make for a more diversified bunch. 
 
 Now is the time to make a brief interlude and introduce the 5 champagne houses that ended up in our blind tasting list. Here they are with a short description about the widow that stood behind each of them:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae9930c-5440-42cf-b6cf-fdc2ae8eca9a.JPG)
@@ -46,8 +44,7 @@ Now is the time to make a brief interlude and introduce the 5 champagne houses t
 
 -- **Veuve Fourny & Fils**. This was the "outsider" which I accidentally came across in Zurich's Markthalle Im Viadukt. The role of the widow in the history of this champagne turned out to be more obscure than in the four big houses already selected for the tasting -- the business is currently run by two brothers who claim that they have learned it all from their mother Madame Veuve Fourny, the widow in question, but they mention also their grand father and "his son" as having influenced them. Nevertheless, we decided to include this champagne in the tasting as it was of very good quality and having more champagnes is always better than having less. It is also interesting to note that this is the only champagne in our selection graded as a "premier cru". However, this is not necessarily an indication of superior quality per se because in Champagne, unlike in other French regions, cru grading is given to whole villages rather than specific vineyards and does not impose strict limitations in terms of yields which reduces its reliability. 
 
-So, these were our contestants, the respectable "dames". With all the 5 beauties in stock the only thing left to take care of was some nice food to pair with the champagne that would also help us clean our palates between the tastings. My wife stepped in devising and cooking an excellent menu for the occasion that included among other things:
--- Jamon serrano with figs 
+So, these were our contestants, the respectable "dames". With all the 5 beauties in stock the only thing left to take care of was some nice food to pair with the champagne that would also help us clean our palates between the tastings. My wife stepped in devising and cooking an excellent menu for the occasion that included among other things: -- Jamon serrano with figs 
 
 -- Blinis with sour cream and wild salmon roe (red caviar) 
 
@@ -75,8 +72,7 @@ After one very long hour of looking, smelling, inhaling, swirling, sipping, swal
 
 5\. Veuve Clicquot (Brut) -- 64 points 
 
-The result was met with a bout of excitement, mixed with surprise and cheering. After a brief discussion with a lot of "I knew it..." and "didn't I tell you..." the culinary party was completed with a fine selection of cheeses, a Zurich chocolate truffle cake and fresh strawberries (the latter being quite a pleasant surprise considering we were in the middle of October) all brought by our guests and fellow members of the tasting panel.
-At the end everybody departed with a carefree smile and those sparkles in the eyes so typical of a champagne state of mind. We all seemed to agree that the project had to be repeated in order to test the consistency of the result, as if we needed an excuse to indulge in another bubbly extravaganza. Actually, I am sure that the exercise could be easily repeated even without a respectable cause. Mireille Guiliano, another famous woman in the industry and a former spokesperson and executive for Veuve Clicquot, has put it quite rightly: no occasion is too small for a champagne. Cheers to that! 
+The result was met with a bout of excitement, mixed with surprise and cheering. After a brief discussion with a lot of "I knew it..." and "didn't I tell you..." the culinary party was completed with a fine selection of cheeses, a Zurich chocolate truffle cake and fresh strawberries (the latter being quite a pleasant surprise considering we were in the middle of October) all brought by our guests and fellow members of the tasting panel. At the end everybody departed with a carefree smile and those sparkles in the eyes so typical of a champagne state of mind. We all seemed to agree that the project had to be repeated in order to test the consistency of the result, as if we needed an excuse to indulge in another bubbly extravaganza. Actually, I am sure that the exercise could be easily repeated even without a respectable cause. Mireille Guiliano, another famous woman in the industry and a former spokesperson and executive for Veuve Clicquot, has put it quite rightly: no occasion is too small for a champagne. Cheers to that! 
 
 ---------------- 
 
