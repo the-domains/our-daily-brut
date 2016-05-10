@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: 'Widows have a special place in the history of Champagne turning around some of the biggest houses, implementing breakthrough changes in the winemaking process and promoting champagne around the world. Here is an article about the most famous champagne widows and a blind tasting of their non-vintage brut champagnes re-posted from the Epicurealist.'
-datePublished: '2016-05-10T20:57:37.401Z'
-dateModified: '2016-05-10T20:57:36.720Z'
+datePublished: '2016-05-10T21:24:53.785Z'
+dateModified: '2016-05-10T21:23:02.905Z'
 title: The battle of the champagne widows
 author: []
 sourcePath: _posts/2016-01-11-the-battle-of-the-champagne-widows.md
