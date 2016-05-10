@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Welcome to our blog dedicated to sparkling wine from Champagne and any other region where it is made using the "traditional method" or "méthode champenoise" (i.e. with the second fermentation in the bottle). We are a group of wine lovers who are crazy about this type of wine and here we share our experience, thoughts and all the interesting things on this awesome drink that we come across.'
-datePublished: '2016-05-10T20:51:37.862Z'
-dateModified: '2016-05-10T20:09:26.971Z'
+datePublished: '2016-05-10T21:28:33.570Z'
+dateModified: '2016-05-10T21:27:12.589Z'
 title: OUR DAILY BRUT
 author:
   - name: ''
